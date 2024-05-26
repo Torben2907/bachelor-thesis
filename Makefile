@@ -1,5 +1,5 @@
 .PHONY: all 
-all: article 
+all: article clean
 
 .PHONY: article
 article: 
